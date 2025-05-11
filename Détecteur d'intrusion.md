@@ -56,4 +56,4 @@ Pour être informé dès que le projet sera disponible:
 
 **Merci de votre patience et de votre intérêt pour ce projet!**
 
-*Ce document sera remplacé par le README comp
+
